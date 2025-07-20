@@ -1,0 +1,93 @@
+{
+  "title": "Questionnaire sur les Films et Séries",
+  "minimum_score": 4,
+  "success_message": "Félicitations! Vous êtes un véritable cinéphile!",
+  "failure_message": "Dommage! Vous devriez regarder plus de films et séries.",
+  "questions": [
+    {
+      "question": "Dans quel film trouve-t-on le personnage de Jack Dawson?",
+      "choices": ["Titanic", "Le Seigneur des Anneaux", "Inception", "Avatar"],
+      "correct_answer": "Titanic"
+    },
+    {
+      "question": "Quelle série met en scène le personnage de Walter White?",
+      "choices": [
+        "Breaking Bad",
+        "Stranger Things",
+        "Game of Thrones",
+        "The Walking Dead"
+      ],
+      "correct_answer": "Breaking Bad"
+    },
+    {
+      "question": "Dans quel film Harry Potter rencontre-t-il pour la première fois Lord Voldemort?",
+      "choices": [
+        "Harry Potter à l'école des sorciers",
+        "Harry Potter et la Chambre des secrets",
+        "Harry Potter et le Prisonnier d'Azkaban",
+        "Harry Potter et la Coupe de feu"
+      ],
+      "correct_answer": "Harry Potter à l'école des sorciers"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction'?",
+      "choices": ["Quentin Tarantino", "Martin Scorsese", "Christopher Nolan", "Steven Spielberg"],
+      "correct_answer": "Quentin Tarantino"
+    },
+    {
+      "question": "Dans quelle série trouve-t-on le personnage de Tyrion Lannister?",
+      "choices": ["The Witcher", "Game of Thrones", "Vikings", "The Crown"],
+      "correct_answer": "Game of Thrones"
+    },
+    {
+      "question": "Quel est le nom du vaisseau dans Star Wars?",
+      "choices": ["Enterprise", "Millennium Falcon", "Serenity", "Nostromo"],
+      "correct_answer": "Millennium Falcon"
+    },
+    {
+      "question": "Dans quel film trouve-t-on la phrase 'I'll be back'?",
+      "choices": ["Predator", "Terminator", "Total Recall", "Conan"],
+      "correct_answer": "Terminator"
+    },
+    {
+      "question": "Qui joue le rôle de Tony Stark dans Marvel?",
+      "choices": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+      "correct_answer": "Robert Downey Jr."
+    },
+    {
+      "question": "Dans quelle série se déroule l'intrigue à Hawkins?",
+      "choices": ["Dark", "Stranger Things", "Twin Peaks", "The X-Files"],
+      "correct_answer": "Stranger Things"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020?",
+      "choices": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+      "correct_answer": "Parasite"
+    },
+    {
+      "question": "Dans quel film trouve-t-on le personnage de Neo?",
+      "choices": ["Blade Runner", "The Matrix", "Minority Report", "Total Recall"],
+      "correct_answer": "The Matrix"
+    },
+    {
+      "question": "Quelle série se déroule dans un monde post-apocalyptique avec des zombies?",
+      "choices": ["Fear the Walking Dead", "The Walking Dead", "Z Nation", "Toutes les réponses"],
+      "correct_answer": "Toutes les réponses"
+    },
+    {
+      "question": "Qui a composé la musique du film 'Le Seigneur des Anneaux'?",
+      "choices": ["Hans Zimmer", "John Williams", "Howard Shore", "Danny Elfman"],
+      "correct_answer": "Howard Shore"
+    },
+    {
+      "question": "Dans quelle série trouve-t-on le personnage de Sheldon Cooper?",
+      "choices": ["Friends", "How I Met Your Mother", "The Big Bang Theory", "Two and a Half Men"],
+      "correct_answer": "The Big Bang Theory"
+    },
+    {
+      "question": "Quel est le vrai nom de Batman?",
+      "choices": ["Bruce Wayne", "Clark Kent", "Peter Parker", "Tony Stark"],
+      "correct_answer": "Bruce Wayne"
+    }
+  ]
+}
